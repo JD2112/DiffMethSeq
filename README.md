@@ -78,7 +78,7 @@ The pipeline will generates three directories
 
 ## Citation
 
-Das, J. (2025). DiffMethNext (v1.0.0). Zenodo. 
+Das, J. (2025). DiffMethSeq (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.14762150](https://doi.org/10.5281/zenodo.14762150)
 
 ## HELP/FAQ/Troubleshooting
 
