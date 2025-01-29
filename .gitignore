@@ -1,0 +1,10 @@
+data/
+deg_data/
+results/
+results1/
+nextflow_readme.md
+bin/DESeq2.R
+.nextflow.log*
+nf-params.json
+work/
+.nextflow/
